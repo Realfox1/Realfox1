@@ -19,7 +19,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,react,tailwind,linux,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,react,linux,sqlite" />
 </p>
 
 ---
