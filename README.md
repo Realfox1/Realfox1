@@ -8,12 +8,12 @@
 
 ### 🧾 About Me
 
-- 🎓 I'm a Computer Information Systems student passionate about building useful and clean code.
-- 🤖 I create advanced **Discord bots** (subscriptions, challenges, analytics).
-- ⚙️ I manage and automate **servers and bots** using **Node.js, Java, and Linux** tools.
-- 🌐 I design **simple, fast, and interactive websites** using **React, TailwindCSS, DaisyUI**.
-- 🧪 I offer **testing, QA, and usability analysis** for apps/websites on Fiverr.
-- 🧠 I teach people how to become PC experts & Linux users from scratch.
+- I'm a Computer Information Systems student passionate about building useful and clean code.
+- I create advanced **Discord bots** (subscriptions, challenges, analytics).
+- I manage and automate **servers and bots** using **Node.js, Java, and Linux** tools.
+- I design **simple, fast, and interactive websites** using **React, TailwindCSS, DaisyUI**.
+- I offer **testing, QA, and usability analysis** for apps/websites on Fiverr.
+- I teach people how to become PC experts & Linux users from scratch.
 
 ---
 
